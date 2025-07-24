@@ -1,10 +1,10 @@
 
 ---
 
-# [SyncPulse](https://pypi.org/project/SyncPulse/)
+# [SyncPulse](https://pypi.org/project/Metamorp/)
 
 
-SyncPulse is a versatile CLI tool designed to simplify various file conversions and tasks. Whether you need to convert documents from one format to another, download YouTube videos or transcripts, or even convert text to speech, SyncPulse has you covered.
+Metamorp is a versatile CLI tool designed to simplify various file conversions and tasks. Whether you need to convert documents from one format to another, download YouTube videos or transcripts, or even convert text to speech, SyncPulse has you covered.
 
 ## Installation
 
@@ -67,7 +67,7 @@ Special thanks to the developers of the libraries that make SyncPulse possible.
 
 Rohanshu - rohanshurathod@gmail.com
 
-Project Link: [https://github.com/rohanshurathod/SyncPulse](https://github.com/rohanshurathod/SyncPulse)
+Project Link: [https://github.com/rohanshurathod/SyncPulse](https://github.com/Rohanshu121/SyncPulse)
 
 ## Additional Repository
 
